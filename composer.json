@@ -22,7 +22,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "SerdarOzturk\\Lassandra\\":"src/"
+      "SerdarOzturk\\Larasandra\\":"src/"
     }
   },
   "minimum-stability": "dev",
