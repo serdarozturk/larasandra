@@ -1,5 +1,5 @@
 <?php
-namespace SerdarOzturk\Lassandra;
+namespace SerdarOzturk\Larasandra;
 
 use Illuminate\Database\Connection as BaseConnection;
 use Cassandra;

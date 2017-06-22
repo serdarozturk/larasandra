@@ -1,5 +1,5 @@
 <?php
-namespace SerdarOzturk\Lassandra\Query;
+namespace SerdarOzturk\Larasandra\Query;
 
 use Illuminate\Database\Query\Grammars\Grammar as BaseGrammar;
 use Illuminate\Database\Query\Builder as BaseBuilder;

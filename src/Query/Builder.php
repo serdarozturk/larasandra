@@ -1,5 +1,5 @@
 <?php
-namespace SerdarOzturk\Lassandra\Query;
+namespace SerdarOzturk\Larasandra\Query;
 
 use Closure;
 use DateTime;
