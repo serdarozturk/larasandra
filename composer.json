@@ -1,0 +1,30 @@
+{
+  "name": "serdarozturk/larasandra",
+  "type": "library",
+  "description": "Cassandra based query builder for laravel.",
+  "license": "MIT",
+  "keywords": [
+    "cassandra",
+    "nosql",
+    "laravel",
+    "database",
+    "query builder",
+    "cql",
+    "larasandra"
+  ],
+  "require": {
+    "datastax/php-driver": "^1.2"
+  },
+  "authors": [
+    {
+      "name": "Serdar Öztürk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SerdarOzturk\\Lassandra\\":"src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
