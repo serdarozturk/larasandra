@@ -8,7 +8,7 @@ use Illuminate\Database\Query\Builder as BaseBuilder;
 use Illuminate\Database\Query\Expression;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Collection;
-use SerdarOzturk\Lassandra\Connection;
+use SerdarOzturk\Larasandra\Connection;
 use Cassandra;
 
 
